@@ -10,7 +10,7 @@ const GoogleMapEmbed = ({ city, country = 'Bulgaria' }) => {
       loading="lazy"
       allowFullScreen
       referrerPolicy="no-referrer-when-downgrade"
-      src={`https://www.google.com/maps/embed/v1/place?key=AIzaSyCgf7_Ao5WxLUwTz5xwFz7IPVIDUo8Is5I&q=${location}`}
+      src={`https://www.google.com/maps/embed/v1/place?key=YOUR_PRIVATE_KEY&q=${location}`}
       title={`Map of ${city}, ${country}`}
     />
   );
