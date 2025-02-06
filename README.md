@@ -7,6 +7,7 @@ The project is designed with separation between the frontend and backend to allo
 
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -15,6 +16,15 @@ The project is designed with separation between the frontend and backend to allo
 - [Folder Structure](#folder-structure)
 - [Future Improvements](#future-improvements)
 - [License](#license)
+
+---
+
+## Screenshots
+
+![Alt text](images/homePage_screenshot.png)
+![Alt text](images/productPage_screenshot.png)
+![Alt text](images/favouritesList_screenshot.png)
+![Alt text](images/requestContacts_screenshot.png)
 
 ---
 
