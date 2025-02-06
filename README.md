@@ -21,10 +21,10 @@ The project is designed with separation between the frontend and backend to allo
 
 ## Screenshots
 
-![Alt text](images/homePage_screenshot.png)
-![Alt text](images/productPage_screenshot.png)
-![Alt text](images/favouritesList_screenshot.png)
-![Alt text](images/requestContacts_screenshot.png)
+![Home page](images/homePage_screenshot.png)
+![Product page](images/productPage_screenshot.png)
+![Favourites list](images/favouritesList_screenshot.png)
+![Request contacts](images/requestContacts_screenshot.png)
 
 ---
 
